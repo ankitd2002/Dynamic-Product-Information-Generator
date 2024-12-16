@@ -101,13 +101,6 @@ Start the server:
 
 uvicorn main:app --reload
 
-Access the API documentation:
-
-Navigate to http://127.0.0.1:8000/docs.
-
-Test the endpoint:
-
-Send a GET request to http://127.0.0.1:8000/getProductInfo?query=<product_name>.
 
 Next Steps
 
